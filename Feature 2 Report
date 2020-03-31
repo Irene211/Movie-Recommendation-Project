@@ -1,0 +1,7 @@
+This dataset contains movie information including:
+  
+  The movie ID, year of release and the movie title
+  
+  Movie ID do not correspond to actual Netflix movie id or IMDB movie ids. 
+  Year of release can range from 1890 to 2005 and may correspond to the release of corresponding DVD, not necessarily its theatrical release. 
+  Title is the Netflix movie title and may not correspond to titles used on other sites. Titles are in English.
