@@ -1,1 +1,17 @@
 
+In this dataset, we keep only the key features in the movie info dataset. 
+We consider movie id and its year of release the two main key features. 
+Since year of release is not included in our model, we temporarily remove it.
+
+Dataset: Movie Dataset
+
+Columns:
+
+      MovieID
+      Title
+
+
+Columns description:
+
+      MovieID: Movies' unique id to be identified, it is not the actual movie id.
+      Title: The title of the movie. (In English)
