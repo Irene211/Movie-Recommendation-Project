@@ -1,0 +1,8 @@
+In this dataset, there are three features: 
+
+      movie_id, customer_id, rating
+
+
+      Movie_id is a list of integers ranging from 1 to 4499. 
+      The customer id ranges from 1 to 2649429, with gaps. There are 480189 users. 
+      Ratings are on a five star (integral) scale from 1 to 5. Dates have the format YYYY-MM-DD.
