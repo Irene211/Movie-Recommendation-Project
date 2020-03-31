@@ -1,0 +1,17 @@
+
+This dataset contains the basic movie information that we need for our prediction:
+
+Columns:
+
+      MovieID
+      YearOfRelease
+      Title
+
+
+Columns description:
+
+      MovieID: Movies' unique id to be identified, it is not the actual movie id.
+      YearOfRelease: The year that the movie is released. (Ranging from 1890 to 2005)
+      Title: The title of the movie. (In English)
+
+
