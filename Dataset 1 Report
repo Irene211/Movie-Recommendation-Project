@@ -1,5 +1,7 @@
+
 This data set contains the first part of the movie rating data, which includes:
-  Movie id
-  Customer id (1-5)
-  Rating
-  Date they give the rating
+
+      Movie id
+      Customer id (1-5)
+      Rating
+      Date they give the rating
